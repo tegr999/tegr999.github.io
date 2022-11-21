@@ -1,0 +1,12 @@
+body{font-size: 8px; color:#00ff00}
+p{color:brown; font-size: 15px;}
+.header {padding: 20px; color:rgb(255, 0, 0); font-size: 30px; background-color: rgb(0, 0, 255);}
+.p {padding: 5px 10px 15px 20px; background-image: url(/catsite.jpg);}
+.center{text-align: center; font-variant: small-caps; font-family: serif;}
+.right{text-align: right; font-weight: bold; font-style: italic; font-family: sans-serif;}
+.left{text-align: left; font-style: oblique; font-family: cursive;}
+.justify{text-align: justify; font-family: fantasy;}
+.one{font-family: monospace;}
+.two{font-family:'Times New Roman', Times, serif; line-height: 0px;}
+.three{font: italic small-caps bold 24px/30px cursive;}
+.card{background-color: blue; font-size: large;}
