@@ -1,12 +1,90 @@
 body{font-size: 8px; color:#00ff00}
 p{color:brown; font-size: 15px;}
-.header {padding: 20px; color:rgb(255, 0, 0); font-size: 30px; background-color: rgb(0, 0, 255);}
-.p {padding: 5px 10px 15px 20px; background-image: url(/catsite.jpg);}
-.center{text-align: center; font-variant: small-caps; font-family: serif;}
-.right{text-align: right; font-weight: bold; font-style: italic; font-family: sans-serif;}
-.left{text-align: left; font-style: oblique; font-family: cursive;}
-.justify{text-align: justify; font-family: fantasy;}
-.one{font-family: monospace;}
-.two{font-family:'Times New Roman', Times, serif; line-height: 0px;}
-.three{font: italic small-caps bold 24px/30px cursive;}
-.card{background-color: blue; font-size: large;}
+.header {padding: 20px; 
+    color:rgb(255, 0, 0); 
+    font-size: 30px; background-color: rgb(0, 0, 255);
+}
+.p {padding: 5px 10px 15px 20px; 
+    background-image: url(/catsite.jpg);
+}
+.center{text-align: center; 
+    font-variant: small-caps; 
+    font-family: serif;
+}
+.right{text-align: right; 
+    font-weight: bold; 
+    font-style: italic; 
+    font-family: sans-serif;
+}
+.left{text-align: left; 
+    font-style: oblique; 
+    font-family: cursive;
+}
+.justify{text-align: justify; 
+    font-family: fantasy;
+}
+.one1{font-family: monospace;}
+.two2{font-family:'Times New Roman', Times, serif; 
+    line-height: 0px;
+}
+.three3{font: italic small-caps bold 24px/30px cursive;}
+.card{background-color: blue; 
+    width: 300px;
+    height: 100px;
+    font-size: large;
+    padding: 60px 50px;
+    border: 50px ridge #ff0000;
+    margin: 250px 150px;
+}
+.card2{background-color: blue; 
+    width: 300px;
+    height: 100px;
+    font-size: large;
+    padding: 60px 50px;
+    border: 50px ridge #ff0000;
+    margin: 100px 150px;
+}
+.first {height: 100px; 
+    height: 100px;
+    width: 500px;
+    background-color: cyan;
+    float: right
+}
+.second {height: 100px;
+    height: 250px;
+    width: 500px;
+    background-color: blue;
+    float: left
+}
+.third {height: 500px;
+    background-color: red;
+}
+.main {height: 500px;
+    background-color: brown;
+    padding: 20px;
+}
+
+.mainframe {background-color: orangered;
+    width: 500px;
+    height: 500px;
+    padding-top: 300px;
+}
+.one {background-color: #ff0000;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 100px;
+
+}
+.two {background-color: green;
+    position: relative;
+    height: 250px;
+    width: 250px;
+    left: 20px
+}
+.three {background-color: yellow;
+    height: 100px;
+    width: 250px
+}
+.four {background-color: blue;
+}

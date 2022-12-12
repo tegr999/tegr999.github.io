@@ -1,0 +1,51 @@
+.main {background-color: orange;
+    width: 500px;
+    height: 500px;
+}
+.fir {background-color: red;
+    width: 100px;
+    height: 75px;
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    z-index: 1;
+    border: 3.5px solid black;
+}
+.sec {background-color: green;
+    position: absolute;
+    top: 100px;
+    right: 350px;
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+    border: 3.5px solid black;
+}
+.thi {background-color: blue;
+    position: absolute;
+    height: 200px;
+    width: 100px;
+    left: 80px;
+    bottom: 325px;
+    z-index: 1;
+    border: 3.5px solid black;
+}
+.for {background-color: yellow;
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    bottom: 325px;
+    right: 350px;
+    z-index: 1;
+    border: 3.5px solid black;
+}
+.adv {background-color: orange;
+    z-index: 0;
+    position: absolute;
+    width: 420px;
+    height: 420px;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+    border: 3.5px solid black;
+}
