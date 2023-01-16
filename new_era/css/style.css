@@ -1,0 +1,36 @@
+.header {border-top: 1px solid blue;}
+.menu__item {
+    font: 16px arial;
+    text-transform: uppercase;
+    color: grey;
+    margin-right: 25px;
+    text-decoration: none;
+}
+.menu {
+    padding-top: 15px;
+    text-align: center;
+}
+.menu__item_active {
+    color: burlywood;
+    font: 16px arial;
+    text-transform: uppercase;
+    margin-right: 25px;
+    text-decoration: none;
+}
+body {font-family: arial;}
+.about__title {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.about {margin-top: 65px;}
+.about__border {
+    align-items: center;
+    width: 50px;
+    border-color: black;
+}
+.about__text {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
